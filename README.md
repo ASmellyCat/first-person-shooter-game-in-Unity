@@ -43,12 +43,11 @@ This project is a first-person shooter game developed in Unity. Players navigate
 
 ## Screenshots
 <img width="793" alt="Screen Shot 2024-01-04 at 11 21 23" src="https://github.com/ASmellyCat/first-person-shooter-game-in-Unity/assets/110814688/1d514118-98de-4cb7-a2fb-e71e52c94b5f">
-<img width="1560" alt="Screen Shot 2024-01-04 at 11 18 40" src="https://github.com/ASmellyCat/first-person-shooter-game-in-Unity/assets/110814688/9ddc269a-c1cd-4e7a-9c48-b10f8422a1fb">
-<img width="1572" alt="Screen Shot 2024-01-04 at 11 18 55" src="https://github.com/ASmellyCat/first-person-shooter-game-in-Unity/assets/110814688/b481223c-8683-4421-85e3-4e9ccfa93cd1">
-<img width="1416" alt="Screen Shot 2024-01-04 at 11 22 19" src="https://github.com/ASmellyCat/first-person-shooter-game-in-Unity/assets/110814688/d11a8621-b573-49a6-a50b-8834d15605cd">
-<img width="1415" alt="Screen Shot 2024-01-04 at 11 22 52" src="https://github.com/ASmellyCat/first-person-shooter-game-in-Unity/assets/110814688/7c35103e-e658-41e5-b8da-879f6b0c70be">
-<img width="1414" alt="Screen Shot 2024-01-04 at 11 23 10" src="https://github.com/ASmellyCat/first-person-shooter-game-in-Unity/assets/110814688/bd313111-af6e-4339-8438-f7adc5038a7d">
-<img width="1411" alt="Screen Shot 2024-01-04 at 11 23 21" src="https://github.com/ASmellyCat/first-person-shooter-game-in-Unity/assets/110814688/23b5ae1a-2a87-487c-a644-ca7ee5d5363c">
-
+<img width="1557" alt="Screen Shot 2024-01-04 at 11 24 48" src="https://github.com/ASmellyCat/first-person-shooter-game-in-Unity/assets/110814688/7929c063-8c6c-4fc9-bd0e-4675768f862d">
+<img width="1563" alt="Screen Shot 2024-01-04 at 11 25 19" src="https://github.com/ASmellyCat/first-person-shooter-game-in-Unity/assets/110814688/98248b1b-12bd-40cc-8750-680b008d098d">
+<img width="1411" alt="Screen Shot 2024-01-04 at 11 25 49" src="https://github.com/ASmellyCat/first-person-shooter-game-in-Unity/assets/110814688/1e9690ab-a4a4-4ae3-aef8-9ccd6fd1ad8a">
+<img width="1410" alt="Screen Shot 2024-01-04 at 11 26 09" src="https://github.com/ASmellyCat/first-person-shooter-game-in-Unity/assets/110814688/dc870030-e146-459c-be96-3b7d0f2a9c4c">
+<img width="1407" alt="Screen Shot 2024-01-04 at 11 26 35" src="https://github.com/ASmellyCat/first-person-shooter-game-in-Unity/assets/110814688/9bd57b78-a619-476d-884d-6d0ce6d9ed54">
+<img width="1408" alt="Screen Shot 2024-01-04 at 11 26 55" src="https://github.com/ASmellyCat/first-person-shooter-game-in-Unity/assets/110814688/dd456824-f7ef-4072-a476-812d69a122ec">
 
 
